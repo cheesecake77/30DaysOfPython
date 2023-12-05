@@ -24,7 +24,7 @@ print(len(first_name))
 num_one = 5
 num_two = 4
 
-total = num_one + num_two
+total = num_one + num_two 
 diff = num_one + num_two
 product = num_one * num_two
 division = num_one / num_two
